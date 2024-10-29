@@ -4,7 +4,7 @@ Bot for [pixmap.fun](https://pixmap.fun)
 1. [Download Tampermonkey](https://www.tampermonkey.net)
 2. [Install bot](https://touchedbydarkness.github.io/stuff/ppf_bot_2/initer.user.js)
 
-**Usage**<br/>
+**Usage**
   Choose coordinates and image.<br/>
   The colors of the image will be automatically converted if you don't care about it, but better use the site converter.<br/>
   Press key "N" to set the start coordinates.<br/>
