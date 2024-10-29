@@ -4,7 +4,7 @@ Bot for [pixmap.fun](https://pixmap.fun)
 1. [Download Tampermonkey](https://www.tampermonkey.net)
 2. [Install bot](https://touchedbydarkness.github.io/stuff/ppf_bot_2/initer.user.js)
 
-**Usage**<br/>
+**Usage** 
   Choose coordinates and image.<br/>
   The colors of the image will be automatically converted if you don't care about it, but better use the site converter.<br/>
   Press key "N" to set the start coordinates.<br/>
@@ -14,7 +14,7 @@ Bot for [pixmap.fun](https://pixmap.fun)
   After solving captcha press "B" to continue bot work. 
 
 **Notes** 
-  Bot also works for [pixelplanet.fun](https://pixelplanet.fun) 
+  * Bot also works for [pixelplanet.fun](https://pixelplanet.fun) 
 
 **[Tell me about suggestions or bugs](https://discord.gg/VyfVmD2nhZ)**<br/>
 **[You can also help me with your donation](https://boosty.to/touchedbydarkness)**
