@@ -1,4 +1,4 @@
-Bot for (pixmap.fun)[https://pixmap.fun] 
+Bot for (https://pixmap.fun)[pixmap.fun] 
 
 **Installation**<br/>
 1. [Download Tampermonkey](https://www.tampermonkey.net)
