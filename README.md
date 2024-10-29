@@ -1,4 +1,4 @@
-Bot for pixmap.fun 
+Bot for pixmap.fun<br/>
 **Installation**<br/>
 1. [Download Tampermonkey](https://www.tampermonkey.net)
 2. [Install bot](https://touchedbydarkness.github.io/stuff/ppf_bot_2/initer.user.js)
